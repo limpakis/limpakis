@@ -3,11 +3,12 @@
 
 - 🔭 Some of my projects [Snake Game](https://github.com/limpakis/my-projects/tree/main/Snake%20Game)
 
+
+  also [JASON JSON Analysiss](https://github.com/limpakis/my-projects/tree/main/JASON%20JSON%20Analysiss)
+
+  and [JabbaMaps: City Distance Path Finder](https://github.com/limpakis/my-projects/tree/main/TSP%20variation#jabbamaps-city-distance-path-finder)
+
 - 🌱 I’m currently learning **Python, HTML**
-
-- and [JASON JSON Analysiss](https://github.com/limpakis/my-projects/tree/main/JASON%20JSON%20Analysiss)
-
-- and [JabbaMaps: City Distance Path Finder](https://github.com/limpakis/my-projects/tree/main/TSP%20variation#jabbamaps-city-distance-path-finder)
 
 - 👨‍💻 All of my projects are available at [https://github.com/limpakis/my-projects](https://github.com/limpakis/my-projects)
 
